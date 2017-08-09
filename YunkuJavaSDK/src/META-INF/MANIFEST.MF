@@ -1,0 +1,2 @@
+Manifest-Version: 3.1
+Class-Path: gson-2.2.4.jar httpclient-4.2.3.jar httpcore-4.3.1.jar okhttp-2.7.5.jar okio-1.6.0.jar org.json.jar
